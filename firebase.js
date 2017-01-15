@@ -31,8 +31,8 @@ ref.on("child_changed", function(snap) {
           url: 'https://api.kairos.com/recognize',
           headers:{
             'Content-Type': 'application/json',
-            'app_id': '<KairosAppID>',
-            'app_key': '<KairosAppKey>'
+            'app_id': 'e966dec0',
+            'app_key': 'e6aecdeb84ef438bf559d2d57309aea6'
           },
           body: JSON.stringify({
             image: base64data,                                              //After picture is taken, image data is set on the facial recognition API
