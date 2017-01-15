@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "alexabell-d504b",
+  "private_key_id": "672f5346927e465db88a0f523242773fff3fc28b",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQDoyANyIhhunUi3\nx4gS1coi4T1vZI0WOb1AAG9RcxN1S2lr4iCbX6p7dBuVkHSKPECMnmfT5Vw7aYxi\ndUrNhX42WUctnuTN5w3Z4yIcPAT4Sq8QhGAC27cXcxvRL7+jmMKrGOo3jm7ExlwP\n259WHLaGEsw2Pimui2S0UppKokKxeNa12pgTY7K+s7qovWXdS3iFIDEDkRd4P/dK\n53YXDbXh7F5D3BOJbH4U3b+gtkPFYsmUvEv50UaStSODnmPFLfRmfcsynYg78MYj\nevQCM+PkjwmvKgm+GIljIQVIue4VvBdOXHZCDEpj2UJwDc0wff2nEn/xC2xYSMzf\nBedXQ1Y3AgMBAAECggEAERo43pbQsrfNkusO/UtFyaBA0kFR+FMPq3cctqA8yr5a\npXl8qc2yidVy/V8aoNliaLJusGvGhfrwPH+fmk/3gOi4SQrGhrY2F08Pv4FNYCyk\nhhMjtrIL1qY3YfwfGVbs3oM7Gg/V5ZEpTGT3ZO1BH8KbzFRu3YsSQAldmqQnQECb\nrAOCpa0MWGW+MbBsOQ40jwgHmbrqWpwpD5PnVH1m09HqNAq5pErS3aI7Iuhq9XEh\n44j5qY0uGjl7OwJrFFdDXiJogJgDkK2WEW4hrWQl88AOhlZfE1ZFW2wq7uQ5Heqd\nmSBvMoPFZfCNdjkV4U13kbJiHT50zmn39QCWmviLOQKBgQD6StTzQuuT2QOpy7x7\ncToeWJAF/+R9xoBJaDEQwDF6vLQp1CwjtVX7UVKNtXn4D9wdlFvZyNe6mBiqZoSy\ny2VrI43X4k2+YlaEBz/Gpd7LjO734dZ3GxkP6g+eoo9zTDkRA28m3KA9p/wN6fy0\ndjefE+BNFqlYH01rhAlBsksmewKBgQDuFvR9JEbjAdyWqYFEFvo+uitUVojQe1TU\nqIyqHeEbBUefQF9MjRXCD8fDv8S61gGhR4WL19Jhh6+Wzttf6JeVrnQJe/zW1tRv\nx69J4jd2dB9WUEhiv6L62FDPfdtdzbnrPomNIEDUVr4iWjpZTh1HLDa6V8YwrIa2\nNjgpeCRAdQKBgQD3O7PeFtxczqCvuHAV/2JJV3HsezhYhRtzZ1gQE8jMVFoid1Ki\ncxzbgxjoobo5LnFfRoz0M0/lIRg8OcgaVI95pUUXWpMw3DJZeE+nCXFp32ytrocK\nX9oBvlJvgGPyn/g+tgW1fXlLbgOsOtVD7QJEQH3vp9LfGQyAh4wdOODCwQKBgQCl\n4c50BjtxXFGxkuXiZ9PwsksQFr556wPeqpRezjSRW+tb1EDRmBbJv67h/pF1zzcR\nhEBSf4svspavDu6fcvFyMzrbhMxTbxhRzSGe64LS//L5czQLwRMvjFk5R6n4QCbB\n9S9m6Urh5pHQY2b148vYU8DJse/+56Vv/HTCx9cSJQKBgQCgiEdcTVDqVp8d/mhV\naTAEoE5uqWrdlmj1rmIQbi+hRPBQCftsPM6w3actYDVBppWtRMm/rC3YMqTaHN7B\n4RYjCYkpusB/sVF0eXaEVf7MtRz2WZpnxq7eOvfYvZbRzr+59jn5G6S9tgXYVm1m\nE5i8fVB9zPt1B3p43lesPydSiA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "admin-raj@alexabell-d504b.iam.gserviceaccount.com",
+  "client_id": "112266075701946155911",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/admin-raj%40alexabell-d504b.iam.gserviceaccount.com"
+}
