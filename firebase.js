@@ -11,7 +11,7 @@ var photoNum = 0;
 
 firebase.initializeApp({
   databaseURL: '<https://alexabell-d504b.firebaseio.com/>',
-  serviceAccount: './<firebaseSecurityProfile>.json'
+  serviceAccount: './<AlexaBell-672f5346927e>.json'
 });
 
 /* Local Database Access */
