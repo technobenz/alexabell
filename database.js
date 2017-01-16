@@ -8,8 +8,8 @@ var queryString = require('querystring');
 var firebase = require('firebase');
 
 firebase.initializeApp({
-  databaseURL: '<firebaseURL>',
-  serviceAccount: './<firebaseSecurityProfile>.json'
+  databaseURL: '<https://alexabell-d504b.firebaseio.com/>',
+  serviceAccount: './<AlexaBell-672f5346927e>.json'
 });
 
 /* Access to database */
