@@ -10,7 +10,7 @@ const fs = require('fs');
 var photoNum = 0;
 
 firebase.initializeApp({
-  databaseURL: '<firebaseURLhere>',
+  databaseURL: '<https://alexabell-d504b.firebaseio.com/>',
   serviceAccount: './<firebaseSecurityProfile>.json'
 });
 
